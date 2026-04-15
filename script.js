@@ -73,8 +73,8 @@ document.getElementById('scroll-top').addEventListener('click', () => {
 
 /* ── TYPING ANIMATION ───────────────────────────────────────── */
 const roles = [
-  'PACS Implementation Engineer',
-  'DICOM / Modalities Integrations',
+  'PACS Implementation/ Service Engineer',
+  'DICOM/ Modalities Integrations',
   'HL7 & Mirth Connect Expert',
   'Radiology Workflow Architect'
 ];
